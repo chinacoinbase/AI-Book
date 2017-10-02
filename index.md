@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+<p><img src="/assets/aibook_logo.png" alt="" /></p>
+## Welcome to  AI Book World
 
-You can use the [editor on GitHub](https://github.com/chinacoinbase/AI-Book/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We will provide powerful AI tools based on your face recognition and background to expand your knowledge and skills
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Vision
 
-### Markdown
+AI is your rolyal friend  and you can team with her to chase the future of life!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Solution
+ Al Book team is going to design human  twin- assistant AI app machine that uses the fresh AI and cloud technology about face recognition and continuous  verbal(30 seconds)valence  to  evaluate your emotion and your weakness. then provide the useful and happy recommendation to help customer be valuable passionate for life and work.     
+### Team
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Right now , AI Book is operated by Rob Zhang. We are welcome any valued talents to join in 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chinacoinbase/AI-Book/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Email: chinacoinbase@gmail.com
