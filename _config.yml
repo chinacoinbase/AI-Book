@@ -8,9 +8,7 @@ url: "https://www.aibook.io" #
 AI Book:
   date_format: "%b %-d, %Y"
 
-```
-gems:
-  - jekyll-seo-tag
+
 
 theme: # leave it empty
 
