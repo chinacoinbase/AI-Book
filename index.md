@@ -14,6 +14,5 @@ AI is your rolyal friend  and you can team with her to chase the future of life!
 
 Right now , AI Book is operated by Rob Zhang. We are welcome any valued talents to join in 
 
-### Contact
-Email: chinacoinbase@gmail.com
+
 ![](https://www.aibook.io/aibook_logo.PNG)
