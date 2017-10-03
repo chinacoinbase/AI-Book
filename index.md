@@ -13,6 +13,6 @@ AI is your rolyal friend  and you can team with her to chase the future of life!
 
 Right now , AI Book is operated by Rob Zhang. We are welcome any valued talents to join in 
 
-![image](https://www.aibook.io/assets/aibook_logo.PNG)
+![image](https://github.com/chinacoinbase/AI-Book/blob/master/thumbnail.png)
 
-<img src="https://www.aibook.io/thumbnail.png" alt="" style="max-width:30%; border: 1px solid grey;"/> 
+<img src="https://github.com/chinacoinbase/AI-Book/blob/master/thumbnail.png" alt="" style="max-width:30%; border: 1px solid grey;"/> 
