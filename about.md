@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: AI Book  has a strong background AI team to provide the best solution for customer
 permalink: /about.html
 ---
 We will provide powerful AI tools based on your face recognition and background to expand your knowledge and skills
