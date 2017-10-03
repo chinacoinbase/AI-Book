@@ -1,6 +1,6 @@
-title:  AI Book
-description:  The first Smart AI company that we help customers based on  face recognition and background to expand your knowledge and skills
-show_downloads: false
+title: AI Book
+description: The first Smart AI company that we help customers based on  face recognition and background to expand your knowledge and skills
+show_downloads:false
 
 baseurl: "/AI Book" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://www.aibook.io" # 
