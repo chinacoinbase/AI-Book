@@ -14,4 +14,4 @@ AI is your rolyal friend  and you can team with her to chase the future of life!
 Right now , AI Book is operated by Rob Zhang. We are welcome any valued talents to join in 
 
 
-<img src="https://www.aibook.io/aibook_logo.PNG" alt="" style="max-width:30%; border: 1px solid grey;"/> 
+<img src="https://www.aibook.io/thumbnail.png" alt="" style="max-width:30%; border: 1px solid grey;"/> 
