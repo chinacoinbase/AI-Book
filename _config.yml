@@ -10,9 +10,6 @@ AI Book:
 
 ```
 gems:
-  - jekyll-feed
-```
-gems:
   - jekyll-seo-tag
 
 theme: # leave it empty
