@@ -10,7 +10,7 @@ Email: chinacoinbase@gmail.com
 
 Tel: 845-423-7114
 
-<img src="https://github.com/chinacoinbase/AI-Book/blob/master/thumbnail.png" alt="" style="max-width:30%; border: 1px solid grey;"/> 
+<img src="http://www.aibook.io/thumbnail.png" alt="" style="max-width:30%; border: 1px solid grey;"/> 
 
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
