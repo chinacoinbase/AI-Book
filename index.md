@@ -11,7 +11,7 @@ AI is your rolyal friend  and you can team with her to chase the future of life!
  Al Book team is going to design human  twin- assistant AI app machine that uses the fresh AI and cloud technology about face recognition and continuous  verbal(30 seconds)valence  to  evaluate your emotion and your weakness. then provide the useful and happy recommendation to help customer be valuable passionate for life and work.     
 ### Team
 
-
 Right now , AI Book is operated by Rob Zhang. We are welcome any valued talents to join in 
 
-<img src="https://www.aibook.io/aibook_logo.PNG" alt="" style="max-width:30%; border: 1px solid grey;"/> <img src="https://www.aibook.io/aibook_logo.PNG" alt="" style="width: 239px; height: 424px;"/>
+
+<img src="https://www.aibook.io/aibook_logo.PNG" alt="" style="max-width:30%; border: 1px solid grey;"/> 
