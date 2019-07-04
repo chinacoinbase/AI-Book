@@ -8,7 +8,7 @@ welcome to Contact with AI book
 
 Email: chinacoinbase@gmail.com
 
-Tel: 845-423-7114
+
 
 <img src="http://www.aibook.io/thumbnail.png" alt="" style="max-width:30%; border: 1px solid grey;"/> 
 
